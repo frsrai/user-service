@@ -12,8 +12,8 @@ Provides APIs to manage user profiles with proper validation, pagination, and au
 - Audit logs for data changes
 
 ## Tech Stack
-- Backend: Go / Java / Node.js
-- Database: PostgreSQL / MySQL
+- Backend: Go
+- Database: PostgreSQL
 
 ## Architecture
 - Clean separation between handlers, services, and repositories
